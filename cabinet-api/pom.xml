@@ -9,11 +9,11 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>cabinet-manage</artifactId>
+    <artifactId>cabinet-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>cabinet-manage</name>
-    <description>好奇柜后台管理系统</description>
+    <name>cabinet-api</name>
+    <description>好奇柜对外接口系统</description>
 
     <properties>
         <java.version>11</java.version>

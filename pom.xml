@@ -16,6 +16,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>cabinet-api</module>
         <module>cabinet-manage</module>
     </modules>
 
