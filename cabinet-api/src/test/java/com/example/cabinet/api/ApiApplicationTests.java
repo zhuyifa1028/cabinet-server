@@ -1,4 +1,4 @@
-package com.example.cabinet.admin;
+package com.example.cabinet.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
